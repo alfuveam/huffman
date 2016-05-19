@@ -11,7 +11,7 @@ package huffman;
  */
 public class ModeloArmazenaValor {
     String sValor;
-
+    
     public String getsValor() {
         return sValor;
     }
@@ -19,5 +19,7 @@ public class ModeloArmazenaValor {
     public void setsValor(String sValor) {
         this.sValor = sValor;
     }
+    
+    //[aaaaaa]
 
 }
